@@ -1,3 +1,2 @@
-# rsschool-2019Q1-codeacademy
-# rsschool-2019Q1-codeacademy
-# rsschool-2019Q1-html-css
+Oxana Danilova
+HTML CSS Basics: https://www.codecademy.com/users/javaPlayer15669/achievements
